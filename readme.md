@@ -9,7 +9,7 @@ You can view the deployed website here:
 
 ## Tech Stack
 
-* **Frontend Framework:** React
+* **Frontend Library:** React
 * **Styling:** Tailwind CSS
 * **Bundler:** Parcel
 * **Proxy Server:** Deployed on Render to bypass CORS restrictions
